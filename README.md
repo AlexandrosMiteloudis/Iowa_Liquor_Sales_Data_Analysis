@@ -1,7 +1,7 @@
 # Iowa Liquor Sales Analysis
 
 ## Final Dashborad
-<img width="1219" height="674" alt="image" src="https://github.com/user-attachments/assets/df231346-d48d-40af-b91a-8d37227ee10c" />
+<img width="1223" height="687" alt="image" src="https://github.com/user-attachments/assets/5a611fe0-6061-484b-8f8e-12272d163547" />
 
 ## Overview
 This is my first data analysis project exploring liquor sales data from Iowa.
