@@ -32,4 +32,4 @@ This is my first data analysis project exploring liquor sales data from Iowa.
 3. Open and run `liquor_sales_analysis.ipynb` in Jupyter Notebook
 
 ## Dataset Source
-[Iowa Liquor Sales Data](https://storage.googleapis.com/courses_data/Assignment%20CSV/finance_liquor_sales.csv)
+Download the data by clicking here: [Iowa Liquor Sales Data](https://storage.googleapis.com/courses_data/Assignment%20CSV/finance_liquor_sales.csv)
